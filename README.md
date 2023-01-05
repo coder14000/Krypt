@@ -5,4 +5,4 @@ This is a crypto transfer website used to transfer GOERLIETH into a different me
 Please do not use this for monetary purposes.
 
 
-All Rights Reserved
+© Krypt 2023 -------  All Rights Reserved
